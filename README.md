@@ -3,7 +3,7 @@
 # Review my project from the trials.
 
 > In this project, I'm coming back to one of my first projects to create a review of it.
-  On that exercise, I worked with a coding partener (Amare) and we had to create a freeCodeCamp Fork Me! FCC: Test Suite Template.
+  On that exercise, I worked with a coding partener (David) and we had to create a freeCodeCamp Fork Me! FCC: Test Suite Template.
 
 
 ## Built With
